@@ -1,6 +1,6 @@
 #Q.No.1
 
-"""n1=int(input("enter total number of keys: "))
+n1=int(input("enter total number of keys: "))
 d1={}
 for i in range(1,n1+1):
     v=input("enter value of key: ")
@@ -8,7 +8,7 @@ for i in range(1,n1+1):
 l=[]
 for j in d1:
     l.append(j)
-print("keys of dictionary is: ",l)"""
+print("keys of dictionary is: ",l)
 
 #Q.No.2
 
